@@ -1,0 +1,1 @@
+ogr2ogr -where "GID_2 in ('DEU.1.15_1','DEU.7.1_1','DEU.1.35_1','DEU.1.26_1')" 4regionssss.shp gadm36_DEU_2.shp
